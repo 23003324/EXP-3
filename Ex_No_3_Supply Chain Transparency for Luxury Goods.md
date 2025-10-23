@@ -50,7 +50,10 @@ contract LuxurySupplyChain {
 ```
 # Expected Output:
 A luxury good (e.g., a Rolex watch) is registered on-chain.
+<img width="1920" height="1080" alt="Screenshot 2025-10-16 091540" src="https://github.com/user-attachments/assets/0cf4b2dc-280c-4af4-b564-b426e1e28653" />
 
+<img width="1920" height="1080" alt="Screenshot 2025-10-16 092230" src="https://github.com/user-attachments/assets/e568c23a-367b-4503-b222-cf300c47a742" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-16 093801" src="https://github.com/user-attachments/assets/a862e1b6-4ce3-4521-a97f-704ff6178036" />
 
 Ownership is transferred at every checkpoint.
 
