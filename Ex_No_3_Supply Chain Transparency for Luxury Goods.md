@@ -1,6 +1,10 @@
-# Aim:
+# Ex_No_3_Supply Chain Transparency for Luxury Goods
+### NAME: HARITHA RAMESH
+### REG NO:212223100011
+### DEPARTMENT:CSE(CYBER SECURITY)
+## Aim:
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
-# Algorithm:
+## Algorithm:
 The manufacturer records product creation details on-chain.
 
 
@@ -13,7 +17,7 @@ The ownership of the product can be transferred securely.
 Buyers can verify the product’s authenticity.
 
 
-# Program:
+## Program:
 ```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
@@ -48,7 +52,7 @@ contract LuxurySupplyChain {
     }
 }
 ```
-# Expected Output:
+## Expected Output:
 A luxury good (e.g., a Rolex watch) is registered on-chain.
 <img width="1920" height="1080" alt="Screenshot 2025-10-16 091540" src="https://github.com/user-attachments/assets/0cf4b2dc-280c-4af4-b564-b426e1e28653" />
 
@@ -61,11 +65,11 @@ Ownership is transferred at every checkpoint.
 Buyers can check the authenticity before purchasing.
 
 
-# High-Level Overview:
+## High-Level Overview:
 Helps prevent counterfeit luxury goods.
 
 
 Teaches real-world supply chain use cases.
 
-# RESULT : 
+## RESULT : 
 Thus a smart contract that tracks the supply chain of luxury goods, ensuring authenticity is executed successfully.
